@@ -4,27 +4,29 @@
 
 ### 1. WSL2 - Linux trên Windows.
 
-*Cài đặt*:
+*Hướng dẫn*: https://www.youtube.com/watch?v=aIYhaeJa90g
 
-1. https://www.youtube.com/watch?v=aIYhaeJa90g
-
-2. https://docs.microsoft.com/en-us/windows/wsl/install-win10
+*Cài đặt*: https://docs.microsoft.com/en-us/windows/wsl/install-win10#manual-installation-steps
 
 ### 2. Cài đặt ZSH - Ohmyzsh - Powerlevel10k
+
+*Hướng dẫn*:
 
 1. https://www.youtube.com/watch?v=jtk3Aw1wqRQ
 
 2. https://haidnguyen.dev/en/setup-wsl2-for-web-development/
 
-3. https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#ubuntu-debian--derivatives-windows-10-wsl--native-linux-kernel-with-windows-10-build-1903
+*Cài đặt*:
 
-4. https://github.com/ohmyzsh/ohmyzsh#getting-started
+1. https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#ubuntu-debian--derivatives-windows-10-wsl--native-linux-kernel-with-windows-10-build-1903
 
-5. https://github.com/romkatv/powerlevel10k#get-started
+2. https://github.com/ohmyzsh/ohmyzsh#getting-started
+
+3. https://github.com/romkatv/powerlevel10k#get-started
 
 ### 3. Cài đặt Zsh-Autosuggtestions
 
-*Giải pháp*: https://viblo.asia/p/cach-cai-dat-zsh-va-zsh-autosuggestions-tren-ubuntu-LzD5ddDO5jY#_cai-dat-zsh-autosuggestions-3
+*Hướng dẫn*: https://viblo.asia/p/cach-cai-dat-zsh-va-zsh-autosuggestions-tren-ubuntu-LzD5ddDO5jY#_cai-dat-zsh-autosuggestions-3
 
 *Cài đặt*: https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
@@ -33,7 +35,7 @@
 
 ### 1. Thêm theme cho giao diện Terminal.
 
-*Giải pháp*: https://windowsterminalthemes.dev/
+*Công cụ*: https://windowsterminalthemes.dev/
 
 *Cài đặt*: https://www.youtube.com/watch?v=mnWA4EP2Zhw
 
@@ -86,11 +88,11 @@ Dưới đây là ví dụ về giao diện Dracula:
 
 ### 1. Chạy thành công localhost trong WSL nhưng không thể truy cập trên trình duyệt
 
-Ở trong WSL khi sử dụng lệnh `ifconfig` để kiểm tra thì địa chỉ IP là `172.x.x.x`, không phải địa chỉ của localhost `127.0.0.1`.
+Khi ở trong WSL khi sử dụng lệnh `ifconfig` để kiểm tra thì địa chỉ IP là `172.x.x.x`, không phải địa chỉ của localhost `127.0.0.1`.
 
 *Giải pháp*: https://github.com/microsoft/WSL/issues/5298#issuecomment-644698693
 
-*Cài Đặt*: 
+*Cài đặt*: 
 
 1. Mở `Control Panel` theo đường dẫn `Control Panel\System and Security\Windows Defender Firewall\Allowed apps`
 
