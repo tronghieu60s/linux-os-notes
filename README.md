@@ -4,7 +4,7 @@
 
 ### 1. WSL2 - Linux trên Windows.
 
-*Cài Đặt*:
+*Cài đặt*:
 
 1. https://www.youtube.com/watch?v=aIYhaeJa90g
 
@@ -34,7 +34,7 @@
 
 *Giải pháp*: https://windowsterminalthemes.dev/
 
-*Cài Đặt*: https://www.youtube.com/watch?v=mnWA4EP2Zhw
+*Cài đặt*: https://www.youtube.com/watch?v=mnWA4EP2Zhw
 
 ### 2. Thêm theme cho giao diện Terminal trong VSCode.
 
@@ -72,4 +72,10 @@ Dưới đây là ví dụ về giao diện Dracula:
 
 *Giải pháp*: https://github.com/microsoft/terminal/issues/3158#issuecomment-832533906
 
-*Cài Đặt*: https://github.com/kerol2r20/Windows-terminal-context-menu 
+*Cài đặt*: https://github.com/kerol2r20/Windows-terminal-context-menu
+
+*Xóa `Open Terminal Here`*: 
+
+1. https://winaero.com/remove-open-in-windows-terminal-context-menu-in-windows-10/
+
+2. Tải về và chạy lệnh xóa: https://winaero.com/downloads/2021/03/remove_open_in_windows_terminal.zip
